@@ -189,5 +189,3 @@ GitHub: **https://github.com/Teeshakul**
 This repository is maintained as part of my learning journey in the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer** program.
 
 ---
-
-⭐ Thank you for visiting my repository!
